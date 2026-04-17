@@ -1,0 +1,11 @@
+# poly_data: generated datasets, sync state, and large downloads (see README)
+markets.csv
+missing_markets.csv
+processed/
+goldsky/
+parallel_logs/
+
+# Optional initial snapshot from Quick Download
+orderFilled_complete.csv
+orderFilled_complete.csv.xz
+archive.tar.xz
